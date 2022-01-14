@@ -1,3 +1,3 @@
-# Bienvenue au cours d'Opmitisation Web 2022 !
+# Demo pour le projet final du cours d'Optimisation Web du collège Montmorency.
 
-[Crédits pour la majorité du contenu contenu : Simon Arnold](https://smnarnold.com/)
+## Créer un site Web pour le groupe de musique Muse
