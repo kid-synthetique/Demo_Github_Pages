@@ -1,6 +1,3 @@
 # Megazord
 
-Je teste comment merger les choses dans github desktop.
-
-[Crédits pour la majorité du contenu contenu : Simon Arnold](https://smnarnold.com/)
 ## Site demo pour le projet final du cours d’Optimisation Web du collège Montmorency.
