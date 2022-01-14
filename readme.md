@@ -1,9 +1,3 @@
-# Muse
+# Megazord
 
-<img src="/images/muse-logo.png" alt="Logo de Muse" width="325" height="244">
-
-[Optimisation web - Megazord](https://smnarnold.com/projets/megazord)
-
-## Équipe
-- Marie-Michelle Ouellet: Rouge
-- Simon Arnold: Bleu
+Site qui sert de démo pour les étudiants en classe pour le cours d'optimisaiton Web.
