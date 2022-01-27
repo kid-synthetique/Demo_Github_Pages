@@ -2,7 +2,7 @@
 
 Site demo pour le projet final du cours d’Optimisation Web du collège Montmorency.
 
-## Cours 1 je vais ajouter un conflit.
+## Cours 1 Optimisation Web avec MMO
 
 1. Plan de cours
 2. CSS Dégradé linéaires
