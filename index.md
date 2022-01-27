@@ -2,7 +2,7 @@
 
 Site demo pour le projet final du cours d’Optimisation Web du collège Montmorency.
 
-## Cours 1
+## Cours 1 je vais ajouter un conflit.
 
 1. Plan de cours
 2. Github
