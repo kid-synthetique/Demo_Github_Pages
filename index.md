@@ -1,18 +1,13 @@
 # Megazord
 
-Site demo pour le projet final du cours d’Optimisation Web du collège Montmorency.
+Site demo pour pour démontrer l'utilisation de GitHub Pages pour un cours Web du collège Montmorency.
 
-## Cours 1 je vais ajouter un conflit. ceci est un test.
+## Cours 1
 
-1. Plan de cours
-2. CSS Dégradé linéaires
-3. Github
-    1. Collaboration
-    2. Résolution de conflit
-4. Présentation du projet de session
-    1. Le scaffolding de votre projet (arborescence de dossiers et de fichiers)
-    2. Guide de styles
+1. Lorem ipsum
+2. Dolor sit
+3. Amet
 
+## Cours 2
 
-
-    abc
+![](https://st3.depositphotos.com/1023870/14001/i/600/depositphotos_140013244-stock-photo-coral-reef-underwater-panorama-with.jpg)
