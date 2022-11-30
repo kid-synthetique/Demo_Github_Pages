@@ -1,3 +1,3 @@
-# Megazord
+# Démo développement Web
 
-Site qui sert de démo pour les étudiants en classe pour le cours d'optimisaiton Web.
+Site qui sert de démo pour les étudiants TIM du collège Montmorency.
